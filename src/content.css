@@ -1,0 +1,68 @@
+.gambar {
+    width: 180px;
+    height: 200px;
+    margin-bottom: 15px;
+}
+
+.desc{
+    display: flex;
+    word-spacing: 5px;
+}
+
+p{
+    word-spacing: 5px;;
+}
+
+.content{
+    box-shadow: 5px 0px 5px gray;
+    width: 900px;
+    /* display: none; */
+}
+.note{
+    text-align: end;
+    padding: 0;
+}
+.price{
+    text-align: end;
+    margin-top: 100px;
+    margin-right: 15px;
+}
+.priceres{
+    text-align: start;
+    margin: 50px;
+}
+
+
+.noteres{
+    text-align: start;
+}
+.header{
+    padding-top: 50px;
+}
+
+
+.main{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.sum{
+    text-align: end;
+}
+
+.tombolCheck{
+    margin-bottom: 15px;
+}
+
+.counter{
+    padding: 0;
+    
+}
+.remove{
+    width: auto;
+    display: none;
+}
+.remove2{
+    display: none;
+}
